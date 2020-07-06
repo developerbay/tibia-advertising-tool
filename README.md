@@ -10,3 +10,5 @@ You can randomize the player list if you want (default: alphabetical order).
 You can customize your message with a few different variables (You will find them in "settings/message.txt"
 
 If you don't want to build the tool there is also a compiled version of it included!
+
+![Tibia Advertisement Tool](https://i.imgur.com/OoaOl8x.png)
