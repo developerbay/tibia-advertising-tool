@@ -1,0 +1,10 @@
+;; Variables:
+;; {Name} = The name of the selected character.
+;; {Level} = The level of the selected character.
+;; {Vocation} = The vocation of the selected character.
+;; {World} = The world of the selected character.
+;; {Link} = The link, without any parameter value. The link is added in the "link.txt" file.
+;; {LinkName} = The link, including the character name as parameter value. The link is added in the "link.txt" file.
+
+;; Enter the message you want to send
+*{Name}* Hello! You are a Level {Level} {Vocation} on {World}. Link: {Link} -::- Link with name: {LinkName}

@@ -1,0 +1,2 @@
+;; The link you want to advertise to players
+https://www.tibia.com/community/?subtopic=characters&name=
